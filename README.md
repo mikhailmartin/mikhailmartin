@@ -37,7 +37,7 @@
 |---|----------------------------------------------------------------------------------------------------------------|--------|----------------------------|
 | 8 | [LLM](https://github.com/mikhailmartin/RiskModellingResearch-LLM)                                              | ⏸️     | Sber.RiskModellingResearch |
 | 7 | [Deep Learning](https://github.com/mikhailmartin/RiskModellingResearch-DeepLearning)                           | ⏸️     | Sber.RiskModellingResearch |
-| 6 | [PySpark](https://github.com/mikhailmartin/RiskModellingResearch-PySpark)                                      | ⏸️     | Sber.RiskModellingResearch |
+| 6 | [PySpark](https://github.com/mikhailmartin/RiskModellingResearch-PySpark)                                      | 🔄     | Sber.RiskModellingResearch |
 | 5 | 🖥 [Тренировки по Алгоритмам 6.0](https://github.com/mikhailmartin/Yandex-AlgorithmTraining6.0)                | ⏸️     | Яндекс                     |
 | 4 | 🖥 [Тренировки по Алгоритмам 1.0](https://github.com/mikhailmartin/Yandex-AlgorithmTraining1.0)                | ⏸️     | Яндекс                     |
 | 3 | 🎓 [Специалист по Data Science](https://github.com/mikhailmartin/YandexPracticum)                              | ✔️     | Яндекс Практикум           |
