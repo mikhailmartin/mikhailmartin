@@ -39,7 +39,7 @@
 | 7 | [Deep Learning](https://github.com/mikhailmartin/RiskModellingResearch-DeepLearning)                           | ⏸️     | Sber.RiskModellingResearch |
 | 6 | [PySpark](https://github.com/mikhailmartin/RiskModellingResearch-PySpark)                                      | 🔄     | Sber.RiskModellingResearch |
 | 5 | 🖥 [Тренировки по Алгоритмам 6.0](https://github.com/mikhailmartin/Yandex-AlgorithmTraining6.0)                | ⏸️     | Яндекс                     |
-| 4 | 🖥 [Тренировки по Алгоритмам 1.0](https://github.com/mikhailmartin/Yandex-AlgorithmTraining1.0)                | ⏸️     | Яндекс                     |
+| 4 | 🖥 [Тренировки по Алгоритмам 1.0](https://github.com/mikhailmartin/Yandex-AlgorithmTraining1.0)                | 🔄     | Яндекс                     |
 | 3 | 🎓 [Специалист по Data Science](https://github.com/mikhailmartin/YandexPracticum)                              | ✔️     | Яндекс Практикум           |
 | 2 | CS231n: Convolutional Neural Networks for Visual Recognition                                                   | ⏸️     | Stanford                   |
 | 1 | 📚 [Основы программирования на Python](https://github.com/mikhailmartin/Coursera-Programming-Basics-in-Python) | ✔️     | Высшая Школа Экономики     |
