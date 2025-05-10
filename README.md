@@ -35,7 +35,7 @@
 ## Пройденные курсы 🎓
 | № | Название                                                                                                       | Статус        | от                         | Год прохождения |
 |---|----------------------------------------------------------------------------------------------------------------|---------------|----------------------------|-----------------|
-| 9 | 🖥 [Тренировки по Алгоритмам 7.0](https://github.com/mikhailmartin/Yandex-AlgorithmTraining7.0)                | ❌❌❌❌          | Яндекс                     |                 |
+| 9 | 🖥 [Тренировки по Алгоритмам 7.0](https://github.com/mikhailmartin/Yandex-AlgorithmTraining7.0)                | ✔️❌❌❌          | Яндекс                     |                 |
 | 8 | [LLM](https://github.com/mikhailmartin/RiskModellingResearch-LLM)                                              | ⏸️            | Sber.RiskModellingResearch |                 |
 | 7 | [Deep Learning](https://github.com/mikhailmartin/RiskModellingResearch-DeepLearning)                           | ⏸️            | Sber.RiskModellingResearch |                 |
 | 6 | [PySpark](https://github.com/mikhailmartin/RiskModellingResearch-PySpark)                                      | ⏸️            | Sber.RiskModellingResearch |                 |
