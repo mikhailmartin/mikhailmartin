@@ -28,20 +28,19 @@
 ## Поучаствовал в ивентах
 | № | Название                                                                                | Год проведения |
 |---|-----------------------------------------------------------------------------------------|----------------|
-| 2 | 🎄 [Advent of Code](https://github.com/mikhailmartin/AdventOfCode2024)                  | 2024           |
+| 2 | 🎄 [Advent of Code](https://github.com/mikhailmartin/Advent-Of-Code-2024)               | 2024           |
 | 1 | 🏆 [BestHack - Data Science](https://github.com/mikhailmartin/BestHack2022-DataScience) | 2022           |
 
 
 ## Пройденные курсы 🎓
 | № | Название                                                                                                       | Статус        | от                         | Год прохождения |
 |---|----------------------------------------------------------------------------------------------------------------|---------------|----------------------------|-----------------|
-| 9 | 🖥 [Тренировки по Алгоритмам 7.0](https://github.com/mikhailmartin/Yandex-AlgorithmTraining7.0)                | ❌❌❌❌          | Яндекс                     |                 |
-| 8 | [LLM](https://github.com/mikhailmartin/RiskModellingResearch-LLM)                                              | ⏸️            | Sber.RiskModellingResearch |                 |
-| 7 | [Deep Learning](https://github.com/mikhailmartin/RiskModellingResearch-DeepLearning)                           | ⏸️            | Sber.RiskModellingResearch |                 |
-| 6 | [PySpark](https://github.com/mikhailmartin/RiskModellingResearch-PySpark)                                      | ⏸️            | Sber.RiskModellingResearch |                 |
-| 5 | 🖥 [Тренировки по Алгоритмам 6.0](https://github.com/mikhailmartin/Yandex-AlgorithmTraining6.0)                | ❌❌❌❌          | Яндекс                     |                 |
+| 8 | 🖥 [Тренировки по Алгоритмам 7.0](https://github.com/mikhailmartin/Yandex-AlgorithmTraining7.0)                | ✔️❌❌❌          | Яндекс                     |                 |
+| 7 | [LLM](https://github.com/mikhailmartin/RiskModellingResearch-LLM)                                              | ⏸️            | Sber.RiskModellingResearch |                 |
+| 6 | [Deep Learning](https://github.com/mikhailmartin/RiskModellingResearch-DeepLearning)                           | ⏸️            | Sber.RiskModellingResearch |                 |
+| 5 | [PySpark](https://github.com/mikhailmartin/RiskModellingResearch-PySpark)                                      | ⏸️            | Sber.RiskModellingResearch |                 |
 | 4 | 🖥 [Тренировки по Алгоритмам 1.0](https://github.com/mikhailmartin/Yandex-AlgorithmTraining1.0)                | ✔️✔️✔️✔️✔️❌❌❌ | Яндекс                     |                 |
-| 3 | 🎓 [Специалист по Data Science](https://github.com/mikhailmartin/YandexPracticum)                              | ✔️            | Яндекс Практикум           | 2023            |
+| 3 | 🎓 [Специалист по Data Science](https://github.com/mikhailmartin/YandexPracticum-DataScience)                  | ✔️            | Яндекс Практикум           | 2023            |
 | 2 | CS231n: Convolutional Neural Networks for Visual Recognition                                                   | ⏸️            | Stanford                   |                 |
 | 1 | 📚 [Основы программирования на Python](https://github.com/mikhailmartin/Coursera-Programming-Basics-in-Python) | ✔️            | Высшая Школа Экономики     | 2022            |
 
@@ -49,6 +48,7 @@
 ## Прочитанные книги 📚
 | № | Название                                                                                        | Автор(ы)                            | Год издания |
 |---|-------------------------------------------------------------------------------------------------|-------------------------------------|-------------|
+| 9 | [Карьера программиста](https://github.com/mikhailmartin/Cracking-the-Coding-Interview)          | Г. Лакман Макдауэлл                 | 2022        |
 | 8 | Практическая статистика для специалистов Data Science                                           | Питер Брюс, Эндрю Брюс, Питер Гедек | 2020        |
 | 7 | Проектирование систем машинного обучения                                                        | Чип Хьюен                           | 2023        |
 | 6 | Грокаем алгоритмы. Иллюстрированное пособие для программистов и любопытствующих                 | Адитья Бхаргава                     | 2021        |
