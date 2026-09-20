@@ -6,17 +6,17 @@
 
 
 ## Пройденные курсы 🎓
-| № | Название                                                                                                       | Статус        | от                         | Год прохождения |
-|---|----------------------------------------------------------------------------------------------------------------|---------------|----------------------------|-----------------|
-| 9 | 🖥 [Тренировки по Алгоритмам 10.0](https://github.com/mikhailmartin/Yandex-AlgorithmTraining10.0)              | ✔️✔️✔️        | Яндекс                     | 2026            |
-| 8 | 🖥 [Тренировки по Алгоритмам 7.0](https://github.com/mikhailmartin/Yandex-AlgorithmTraining7.0)                | ✔️⏸️⏸️⏸️      | Яндекс                     |                 |
-| 7 | [LLM](https://github.com/mikhailmartin/RiskModellingResearch-LLM)                                              | ⏸️            | Sber.RiskModellingResearch |                 |
-| 6 | [Deep Learning](https://github.com/mikhailmartin/RiskModellingResearch-DeepLearning)                           | ⏸️            | Sber.RiskModellingResearch |                 |
-| 5 | [PySpark](https://github.com/mikhailmartin/RiskModellingResearch-PySpark)                                      | ⏸️            | Sber.RiskModellingResearch |                 |
-| 4 | 🖥 [Тренировки по Алгоритмам 1.0](https://github.com/mikhailmartin/Yandex-AlgorithmTraining1.0)                | ✔️✔️✔️✔️✔️✔️✔️❌ | Яндекс                     |                 |
-| 3 | 🎓 [Специалист по Data Science](https://github.com/mikhailmartin/YandexPracticum-DataScience)                  | ✔️            | Яндекс Практикум           | 2023            |
-| 2 | CS231n: Convolutional Neural Networks for Visual Recognition                                                   | ⏸️            | Stanford                   |                 |
-| 1 | 📚 [Основы программирования на Python](https://github.com/mikhailmartin/Coursera-Programming-Basics-in-Python) | ✔️            | Высшая Школа Экономики     | 2022            |
+| № | Название                                                                                                       | Статус           | от                         | Год прохождения |
+|---|----------------------------------------------------------------------------------------------------------------|------------------|----------------------------|-----------------|
+| 9 | 🖥 [Тренировки по Алгоритмам 10.0](https://github.com/mikhailmartin/Yandex-AlgorithmTraining10.0)              | ✔️✔️✔️           | Яндекс                     | 2026            |
+| 8 | 🖥 [Тренировки по Алгоритмам 1.0](https://github.com/mikhailmartin/Yandex-AlgorithmTraining1.0)                | ✔️✔️✔️✔️✔️✔️✔️✔️ | Яндекс                     | 2026            |
+| 7 | 🖥 [Тренировки по Алгоритмам 7.0](https://github.com/mikhailmartin/Yandex-AlgorithmTraining7.0)                | ✔️⏸️⏸️⏸️         | Яндекс                     |                 |
+| 6 | [LLM](https://github.com/mikhailmartin/RiskModellingResearch-LLM)                                              | ⏸️               | Sber.RiskModellingResearch |                 |
+| 5 | [Deep Learning](https://github.com/mikhailmartin/RiskModellingResearch-DeepLearning)                           | ⏸️               | Sber.RiskModellingResearch |                 |
+| 4 | [PySpark](https://github.com/mikhailmartin/RiskModellingResearch-PySpark)                                      | ⏸️               | Sber.RiskModellingResearch |                 |
+| 3 | 🎓 [Специалист по Data Science](https://github.com/mikhailmartin/YandexPracticum-DataScience)                  | ✔️               | Яндекс Практикум           | 2023            |
+| 2 | CS231n: Convolutional Neural Networks for Visual Recognition                                                   | ⏸️               | Stanford                   |                 |
+| 1 | 📚 [Основы программирования на Python](https://github.com/mikhailmartin/Coursera-Programming-Basics-in-Python) | ✔️               | Высшая Школа Экономики     | 2022            |
 
 
 ## Прочитанные книги 📚
