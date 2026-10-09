@@ -10,7 +10,7 @@
 |----|----------------------------------------------------------------------------------------------------------------|--------------------|----------------------------|-----------------|
 | 10 | 🖥 [Тренировки по алгоритмам 10.0](https://github.com/mikhailmartin/Yandex-AlgorithmTraining10.0)              | ✔️✔️✔️             | Яндекс                     | 2026            |
 | 9  | 🖥 [Тренировки по алгоритмам 7.0](https://github.com/mikhailmartin/Yandex-AlgorithmTraining7.0)                | ✔️✔️✔️✔️           | Яндекс                     | 2026            |
-| 8  | 🖥 [Тренировки по алгоритмам 2.0](https://github.com/mikhailmartin/Yandex-AlgorithmTraining2.0)                | ❌❌❌❌❌❌❌❌           | Яндекс                     |                 |
+| 8  | 🖥 [Тренировки по алгоритмам 2.0](https://github.com/mikhailmartin/Yandex-AlgorithmTraining2.0)                | ✔️❌❌❌❌❌❌❌          | Яндекс                     |                 |
 | 7  | 🖥 [Тренировки по алгоритмам 1.0](https://github.com/mikhailmartin/Yandex-AlgorithmTraining1.0)                | ✔️✔️✔️✔️✔️✔️✔️✔️   | Яндекс                     | 2026            |
 | 6  | [LLM](https://github.com/mikhailmartin/RiskModellingResearch-LLM)                                              | ⏸️                 | Sber.RiskModellingResearch |                 |
 | 5  | [Deep Learning](https://github.com/mikhailmartin/RiskModellingResearch-DeepLearning)                           | ⏸️                 | Sber.RiskModellingResearch |                 |
