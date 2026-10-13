@@ -1,14 +1,14 @@
 ## Поучаствовал в ивентах
-| № | Название                                                                                | Год проведения |
-|---|-----------------------------------------------------------------------------------------|----------------|
-| 2 | 🎄 [Advent of Code](https://github.com/mikhailmartin/Advent-Of-Code-2024)               | 2024           |
-| 1 | 🏆 [BestHack - Data Science](https://github.com/mikhailmartin/BestHack2022-DataScience) | 2022           |
+| № | Название                                                                                          | Год проведения |
+|---|---------------------------------------------------------------------------------------------------|----------------|
+| 3 | 🖥 [Тренировки по алгоритмам 10.0](https://github.com/mikhailmartin/Yandex-AlgorithmTraining10.0) | 2026           |
+| 2 | 🎄 [Advent of Code](https://github.com/mikhailmartin/Advent-Of-Code-2024)                         | 2024           |
+| 1 | 🏆 [BestHack - Data Science](https://github.com/mikhailmartin/BestHack2022-DataScience)           | 2022           |
 
 
 ## Пройденные курсы 🎓
 | №  | Название                                                                                                       | Статус             | от                         | Год прохождения |
 |----|----------------------------------------------------------------------------------------------------------------|--------------------|----------------------------|-----------------|
-| 10 | 🖥 [Тренировки по алгоритмам 10.0](https://github.com/mikhailmartin/Yandex-AlgorithmTraining10.0)              | ✔️✔️✔️             | Яндекс                     | 2026            |
 | 9  | 🖥 [Тренировки по алгоритмам 7.0](https://github.com/mikhailmartin/Yandex-AlgorithmTraining7.0)                | ✔️✔️✔️✔️           | Яндекс                     | 2026            |
 | 8  | 🖥 [Тренировки по алгоритмам 2.0](https://github.com/mikhailmartin/Yandex-AlgorithmTraining2.0)                | ✔️✔️❌❌❌❌❌❌         | Яндекс                     |                 |
 | 7  | 🖥 [Тренировки по алгоритмам 1.0](https://github.com/mikhailmartin/Yandex-AlgorithmTraining1.0)                | ✔️✔️✔️✔️✔️✔️✔️✔️   | Яндекс                     | 2026            |
