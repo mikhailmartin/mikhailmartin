@@ -9,8 +9,8 @@
 ## 🎓 Пройденные курсы
 | № | Название                                                                                                       | Статус             | от                         | Год прохождения |
 |---|----------------------------------------------------------------------------------------------------------------|--------------------|----------------------------|-----------------|
-| 9 | 🧠 [Deep Learning](https://github.com/mikhailmartin/RiskModellingResearch-DeepLearning)                        | ✔️✔️✔️✔️✔️✔️✔️❌✔️  | Sber.RiskModellingResearch |                 |
-| 8 | 🖥 [Тренировки по алгоритмам 2.0](https://github.com/mikhailmartin/Yandex-AlgorithmTraining2.0)                | ✔️✔️✔️✔️✔️✔️❌❌     | Young&&Yandex              |                 |
+| 9 | 🖥 [Тренировки по алгоритмам 2.0](https://github.com/mikhailmartin/Yandex-AlgorithmTraining2.0)                | ✔️✔️✔️✔️✔️✔️❌❌     | Young&&Yandex              |                 |
+| 8 | 🧠 [Deep Learning](https://github.com/mikhailmartin/RiskModellingResearch-DeepLearning)                        | ✔️✔️✔️✔️✔️✔️✔️✔️✔️ | Sber.RiskModellingResearch | 2026            |
 | 7 | 🔥 [PySpark](https://github.com/mikhailmartin/RiskModellingResearch-PySpark)                                   | ✔️✔️✔️✔️           | Sber.RiskModellingResearch | 2026            |
 | 6 | 🖥 [Тренировки по алгоритмам 7.0](https://github.com/mikhailmartin/Yandex-AlgorithmTraining7.0)                | ✔️✔️✔️✔️           | Young&&Yandex              | 2026            |
 | 5 | 🖥 [Тренировки по алгоритмам 1.0](https://github.com/mikhailmartin/Yandex-AlgorithmTraining1.0)                | ✔️✔️✔️✔️✔️✔️✔️✔️   | Young&&Yandex              | 2026            |
